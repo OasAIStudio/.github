@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/logo_square.jpg" alt="OasAI Studio Logo" width="120" />
-  <h1>Oas AI Studio</h1>
+  <h1><img src="../assets/logo_square.jpg" alt="OasAI Studio Logo" width="40" style="vertical-align:-10px; margin-right:8px;" /> Oas AI Studio</h1>
   <p>Building the next generation of AI tools.</p>
   <p>Open-source, lightweight, and provider-agnostic solutions for developers.</p>
 </div>

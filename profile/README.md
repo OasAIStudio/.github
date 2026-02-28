@@ -1,5 +1,10 @@
 <div align="center">
-  <h1><img src="../assets/logo_square.jpg" alt="OasAI Studio Logo" width="40" align="middle" />&nbsp; Oas AI Studio</h1>
+  <table align="center" cellspacing="0" cellpadding="0">
+    <tr border="0"> 
+      <td valign="middle" border="0"><img src="../assets/logo_transparent.jpg" alt="OasAI Studio Logo" width="40"/></td>
+      <td valign="middle" border="0"><h1>&nbsp;Oas AI Studio</h1></td>
+    </tr>
+  </table>
   <p>Building the next generation of AI tools.</p>
   <p>Open-source, lightweight, and provider-agnostic solutions for developers.</p>
 </div>

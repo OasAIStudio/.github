@@ -14,7 +14,7 @@
 ## Our Projects
 
 - **[Open Agent SDK](https://github.com/OasAIStudio/open-agent-sdk)** - Open-source alternative to Claude Agent SDK
-- **[ClawCycle](https://github.com/OasAIStudio/ClawCycle)** - Agent-to-Agent token recycling platform
+- **[ClawPiggy](https://github.com/OasAIStudio/ClawPiggy)** - Agent-to-Agent token recycling platform
 
 ## Links
 

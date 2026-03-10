@@ -13,6 +13,7 @@
 
 ## Our Projects
 
+- **[Symphony TS](https://github.com/OasAIStudio/symphony-ts)** - TypeScript implementation of [OpenAI Symphony](https://github.com/openai/symphony). Allowing teams to manage work instead of supervising coding agents.
 - **[Open Agent SDK](https://github.com/OasAIStudio/open-agent-sdk)** - Open-source alternative to Claude Agent SDK
 - **[ClawPiggy](https://github.com/OasAIStudio/ClawPiggy)** - Agent-to-Agent token recycling platform
 
